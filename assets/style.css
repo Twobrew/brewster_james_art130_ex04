@@ -5,7 +5,7 @@ html {
     font-family: 'inter';
 }
 
-body{
+body {
     display: flex;
     min-height: 100%;
     background-color: #f3f4f6;
@@ -19,7 +19,7 @@ body{
     margin: auto;
 }
 
-.recipe-card{
+.recipe-card {
     background-color: #fff;
     padding: 1rem 1rem 2.5rem;
     border-radius: 2.5%;
